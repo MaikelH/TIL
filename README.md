@@ -9,3 +9,11 @@ warrant a full blog post.
 ---
 
 ### Categories
+
+* [Devops](#devops)
+
+---
+
+### Devops
+
+- [Create SSH keypair](devops/create-ssh-keypair.md)
