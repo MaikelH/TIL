@@ -31,3 +31,4 @@ warrant a full blog post.
 ### Kubernetes
 
 - [Disable ingress loadbalancer on GCE](kubernetes/disable-ingress-loadbalancer-gce.md)
+- [Retrieve all secrets in a yaml file](kubernetes/retrieve-all-secrets-in-a-yaml-file.md)
