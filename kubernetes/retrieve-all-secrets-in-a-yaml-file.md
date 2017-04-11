@@ -1,4 +1,4 @@
-# Retrieve all secrets in a yaml file
+# Retrieve all secrets in and store in file
 
 Sometimes it is needed to retrieve all the secrets inside a kubernetes cluster (for backup purpopes for example). The 
 following command will retrieve all secrets in `yaml` format and write them to `secrets.yaml`. This file can then be used with
