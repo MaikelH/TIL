@@ -19,6 +19,7 @@ warrant a full blog post.
 - [Create SSH keypair](devops/create-ssh-keypair.md)
 - [Add iptable rule on line number](devops/add-iptable-rule-on-line-number.md)
 - [Add keys to ssh config](devops/add-keys-to-ssh-config.md)
+- [Delete old Graphite data](devops/delete-old-graphite-data.md)
 
 ### Javascript
 
